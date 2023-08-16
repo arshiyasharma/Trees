@@ -29,3 +29,8 @@ Post Order traversal[LRC]-	88	78	67	56	45	34	23	12
 PreOrder traversal[CLR]-	12	23	34	45	56	67	78	88	
 
 The number of leaves is: 1
+
+---
+This project was made on BlueJ :) 
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
